@@ -1,5 +1,5 @@
 package anna.java.basic;
-import java.util.Scanner; //подключение
+import java.util.Scanner; //подключение библиотеки (храняться процедурыб функции)
 public class Main {
         public static void main(String[] args) {
 //урок 4
@@ -36,7 +36,7 @@ public class Main {
             System.out.println("Результат:" + res);*/
 
 //создание калькулятора
-           /* Scanner scan = new Scanner(System.in);
+           Scanner scan = new Scanner(System.in);
 
             System.out.println("Введите 1 число: ");
             float num1 = scan.nextFloat();
@@ -47,7 +47,7 @@ public class Main {
             float res3 = num1 * num2;
             float res4 = num1 / num2;
             System.out.println("Результат:");
-            System.out.println(res1 + "\n" + res2 + "\n" + res3 + "\n" + res4 + "\n");*/
+            System.out.println(res1 + "\n" + res2 + "\n" + res3 + "\n" + res4 + "\n");
 //урок 6
 
 }
