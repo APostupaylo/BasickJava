@@ -86,7 +86,7 @@ public class Main {
                     System.out.println("default");
             }*/
 //создание калькулятора
-            Scanner scanner = new Scanner(System.in);
+           Scanner scanner = new Scanner(System.in);
             System.out.println("Введите первое число: ");
             int num1 = scanner.nextInt();
 
@@ -123,5 +123,6 @@ public class Main {
                 default:
                     System.out.println("default");
             }
+
 }
 }
